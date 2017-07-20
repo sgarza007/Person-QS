@@ -1,3 +1,4 @@
+//author:Saul Garza
 //quicksort class
 
 public class QS {
