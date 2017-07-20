@@ -1,3 +1,4 @@
+//author:Saul Garza
 //Person Class
 
 public class person implements Comparable < person > {
